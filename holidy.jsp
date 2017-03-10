@@ -36,7 +36,7 @@
 		return;
 	}
 %>
-<%!private final static int languageNo = 0; //Language,0 : Chinese; 1:English
+<%!private final static int languageNo = 0; 
 
 	String strThisFile = "";
 
